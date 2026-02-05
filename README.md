@@ -10,3 +10,4 @@ Goals for This Course
 Hope through this course, i can be really good at Java and the data structure and have no problem doing leetcode and can get an internship soon. 
 
 In-Class Java Coding Warm Up file
+There is a java coding file called "animalcode" uploaed, covering the first week of the class, talking about the class of animal and the subclass of panda and shark. 
